@@ -1,14 +1,14 @@
 {
   "id": "gray-makes-the-summoner",
   "title": "Gray makes the summoner",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "manifest": "https://github.com/Gray007nl/gray-makes-the-summoner/releases/latest/download/module.json",
-  "download": "https://github.com/Gray007nl/gray-makes-the-summoner/releases/download/1.1.0/module.zip",
+  "download": "https://github.com/Gray007nl/gray-makes-the-summoner/releases/download/2.0.0/module.zip",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
   },
-  "description": "<p>The summoner made by Gray, currently Circle of Graves only</p>",
+  "description": "<p>The summoner made by Gray</p>",
   "authors": [
     {
       "name": "Gray",
@@ -26,7 +26,7 @@
       "type": "Item",
       "system": "draw-steel",
       "ownership": {
-        "PLAYER": "OBSERVER",
+        "PLAYER": "OWNER",
         "ASSISTANT": "OWNER"
       }
     },
@@ -37,7 +37,7 @@
       "type": "Actor",
       "system": "draw-steel",
       "ownership": {
-        "PLAYER": "OBSERVER",
+        "PLAYER": "OWNER",
         "ASSISTANT": "OWNER"
       }
     },
